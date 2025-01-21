@@ -19,7 +19,7 @@ npm run build
 echo '========================================================================='
 echo 'Running Unit Tests'
 echo '========================================================================='
-#npm run test
+npm run test
 
 # to be safe, clear out any old libraries in the output directory
 echo '========================================================================='
