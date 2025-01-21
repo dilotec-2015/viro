@@ -1,1 +1,2 @@
 include ':gvr_common', ':viro_bridge', ':viro_renderer', ':arcore_client'
+includeBuild('../node_modules/react-native-gradle-plugin')
